@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
-languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+baseURL: "/"
+languageCode: "fr-fr"
+title: "Mon site"
 
 module:
   imports:
