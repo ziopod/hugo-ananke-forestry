@@ -11,6 +11,16 @@ fields:
 - type: text
   name: description
   label: description
+- name: test
+  type: field_group
+  config: {}
+  fields:
+  - name: test
+    type: include
+    config: {}
+    template: demo-date
+    label: Test
+  label: Test
 pages:
 - content/_index.md
 - content/about/_index.md
