@@ -1,4 +1,33 @@
 ---
 label: Démo date
 hide_body: true
-fields: []
+fields:
+- name: label
+  type: text
+  config:
+    required: false
+  label: Label
+- name: date
+  type: datetime
+  label: Date de l'évenement
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: etat
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Nominale
+    - Annulée
+    - Nouvelle
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: État
