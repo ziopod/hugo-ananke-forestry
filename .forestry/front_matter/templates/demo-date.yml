@@ -18,9 +18,9 @@ fields:
     display_utc: false
 - name: etat
   type: select
-  default: []
+  default: Nominale
   config:
-    required: false
+    required: true
     options:
     - Nominale
     - Annulée
