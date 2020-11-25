@@ -20,7 +20,7 @@ fields:
     config: {}
     template: demo-date
     label: Date de représentation
-  label: Test
+  label: Date de représentation
 pages:
 - content/_index.md
 - content/about/_index.md
