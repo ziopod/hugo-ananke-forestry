@@ -4,6 +4,10 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
   the author of this book found, in an obscure nook of one of the towers, the following
   word, engraved by hand upon the wall: —ANANKE.'
 featured_image: ''
+test:
+  label: 03/18/2021 8:00 PM
+  date: 2021-03-18T19:00:00+00:00
+  etat: Annulée
 
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
