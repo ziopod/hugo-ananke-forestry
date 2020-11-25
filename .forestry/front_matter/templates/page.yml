@@ -19,7 +19,7 @@ fields:
     type: include
     config: {}
     template: demo-date
-    label: Test
+    label: Date de représentation
   label: Test
 pages:
 - content/_index.md
